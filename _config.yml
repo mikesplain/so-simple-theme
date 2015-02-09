@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Mike Splain
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Ops, Automation and Web engineer.
+logo: logo.png
 search: true
 url: http://localhost:4000
 
@@ -31,13 +31,13 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Mike Splain
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: mike.splain@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: mikesplain
   facebook: #username
-  github: #username
+  github: mikesplain
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
@@ -48,5 +48,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
